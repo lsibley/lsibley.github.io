@@ -1,6 +1,11 @@
 p {
     font-size: 4em!important; 
     color:purple;
-    background-color:green;
+    background-color:pink;
     text-decoration: underline;
+    display:block;
+}
+
+span {
+    color:green;
 }
