@@ -2,12 +2,16 @@ p {
 
     color:green;
     background-color:purple;
-   
+   font-size:3em;
+   display:block;
 
 }
 
 span {
     color:blue;
+    background-color:green;
+    font-size:2em;
+    display:inline-block;
 }
 
 
