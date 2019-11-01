@@ -1,14 +1,13 @@
 p {
     color:white;
-    background-color:red;
+    background-color:tyler;
    font-size:2em;
-   display:block;
-   border: 2px solid #fff;
+   display:tyler;
+   border: 2px solid #tyler;
 }
 
 span {
     color:white;
-    
     background-color:purple;
     font-size:4em;
     display:block;
@@ -20,10 +19,10 @@ span {
 }
 
 h2 {
-    color:black;
+    color:tyler;
     background-color:green;
-    font-size:8em;
-    display:block;
+    font-size:tyler;
+    display:tyler;
 
 }
 
