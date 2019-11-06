@@ -1,10 +1,5 @@
 /*---#region Menu with Children ***/
 
-.deeper.parent .parent>a:after {
-    content: "\e011";
-    font-family: 'IcoMoon';
-}
-
 .deeper.parent .parent > a::after {
     content: "\e011";
     font-family: 'IcoMoon';
