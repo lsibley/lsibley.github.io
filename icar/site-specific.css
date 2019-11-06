@@ -1,29 +1,8 @@
-p {
-    color:laura;
-    background-color:tylerbryant;
-   font-size:tyler;
-   display:tylerbryant;
-   border: 2px solid #tylerb;
+/*---#region Menu with Children ***/
+
+.deeper.parent .parent>a:after {
+    content: "\e011";
+    font-family: 'IcoMoon';
 }
 
-span {
-    color:tylerbryant;
-    background-color:laura2;
-    font-size:4em;
-    display:laura;
-    color:tyler;
-    background-color:lauraagain;
-   font-size:laurafinal;
-   display:block;
-   border: tyler;
-}
-
-h2 {
-    color:laurawatts;
-    background-color:laura2;
-    font-size:tyler;
-    display:laura2;
-}
-
-
-
+/*---#endregion Menu with Children ***/
